@@ -5,28 +5,42 @@
       "location": "Nairobi",
       "pay": "1000",
       "phone": "0758288727",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "Mechanic",
       "location": "Nairobi",
       "pay": "1200",
       "phone": "0758288727",
-      "id": 2
+      "id": "2"
     },
     {
       "title": "Cleaner",
       "location": "Kilimani",
       "pay": "600",
       "phone": "0728926262",
-      "id": 3
+      "id": "3"
     },
     {
       "title": "Waiter",
       "location": "Kimana",
       "pay": "700",
       "phone": "254758288727",
-      "id": 4
+      "id": "4"
+    },
+    {
+      "title": "Doctor",
+      "location": "Nairobi",
+      "pay": "2000",
+      "phone": "0758288727",
+      "id": "LgoKUE_xpIA"
+    },
+    {
+      "title": "Driver",
+      "location": "Caren",
+      "pay": "2000",
+      "phone": "0757288737",
+      "id": "ThrNPcUoW98"
     }
   ]
 }
