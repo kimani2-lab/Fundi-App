@@ -1,0 +1,76 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #667eea, #764ba2);
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+/* Form Card */
+form {
+  background: white;
+  max-width: 500px;
+  margin: 0 auto 20px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Inputs */
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+/* Button */
+button {
+  width: 100%;
+  padding: 12px;
+  background: #667eea;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #5a67d8;
+}
+
+/* Search */
+#search {
+  display: block;
+  max-width: 500px;
+  margin: 0 auto 20px;
+}
+
+/* Job List */
+#jobList {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* Job Cards */
+#jobList div {
+  background: white;
+  padding: 15px;
+  margin-bottom: 12px;
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+  transition: transform 0.2s;
+}
+
+#jobList div:hover {
+  transform: scale(1.02);
+}
